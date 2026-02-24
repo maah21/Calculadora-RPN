@@ -54,7 +54,7 @@ A implementação foi realizada utilizando **Assembly MIPS** no **simulador MARS
 - Entrada e saída de **dados através do software MARS**.
 
 📂 **Acesse o código:**
-[Calculadora de Notação Polonesa Reversa](implementacao_calculadora_rpn.asm)
+[Calculadora de Notação Polonesa Reversa](implementacao.asm)
 
 ---
 
